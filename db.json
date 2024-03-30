@@ -2,31 +2,37 @@
   "pizzas": [
     {
       "id": 1,
+      "image": "https://static.pizzasushiwok.ru/images/menu_new/29-1300.jpg",
       "title": "Кулебяка с капустой",
       "price": 399
     },
     {
       "id": 2,
+      "image": "https://static.pizzasushiwok.ru/images/menu_new/2069-1300.jpg",
       "title": "Пицца Ромео Чиз",
       "price": 519
     },
     {
       "id": 3,
+      "image": "https://static.pizzasushiwok.ru/images/menu_new/6-1300.jpg",
       "title": "Пицца Пепперони",
       "price": 469
     },
     {
       "id": 4,
+      "image": "https://static.pizzasushiwok.ru/images/menu_new/17-1300.jpg",
       "title": "Пицца Жульетта",
       "price": 599
     },
     {
       "id": 5,
+      "image": "https://static.pizzasushiwok.ru/images/menu_new/279-1300.jpg",
       "title": "Пицца Барбекю",
       "price": 589
     },
     {
       "id": 6,
+      "image": "https://static.pizzasushiwok.ru/images/menu_new/11-1300.jpg",
       "title": "Пицца 4 сыра",
       "price": 569
     }
