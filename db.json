@@ -5,6 +5,12 @@
       "title": "hello"
     }
   ],
+  "pizzas": [
+    {
+      "id": 1,
+      "title": "Кулебяка с капустой"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
