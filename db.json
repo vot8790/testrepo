@@ -4,36 +4,48 @@
       "id": 1,
       "image": "https://static.pizzasushiwok.ru/images/menu_new/29-1300.jpg",
       "title": "Кулебяка с капустой",
+      "gram": "100",
+      "time": "10",
       "price": 399
     },
     {
       "id": 2,
       "image": "https://static.pizzasushiwok.ru/images/menu_new/2069-1300.jpg",
       "title": "Пицца Ромео Чиз",
+      "gram": "150",
+      "time": "15",
       "price": 519
     },
     {
       "id": 3,
       "image": "https://static.pizzasushiwok.ru/images/menu_new/6-1300.jpg",
       "title": "Пицца Пепперони",
+      "gram": "200",
+      "time": "5",
       "price": 469
     },
     {
       "id": 4,
       "image": "https://static.pizzasushiwok.ru/images/menu_new/17-1300.jpg",
       "title": "Пицца Жульетта",
+      "gram": "150",
+      "time": "8",
       "price": 599
     },
     {
       "id": 5,
       "image": "https://static.pizzasushiwok.ru/images/menu_new/279-1300.jpg",
       "title": "Пицца Барбекю",
+      "gram": "200",
+      "time": "8",
       "price": 589
     },
     {
       "id": 6,
       "image": "https://static.pizzasushiwok.ru/images/menu_new/11-1300.jpg",
       "title": "Пицца 4 сыра",
+      "gram": "100",
+      "time": "5",
       "price": 569
     }
   ],
