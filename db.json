@@ -1,6 +1,6 @@
 {
   "products": [
-    {
+	  {
 	    "product_id": 100,
 	    "label_new": false,
 	    "label_stock": true,
@@ -24,64 +24,24 @@
 			"/images/products/product-1-s.png",
 			"/images/products/product-1-s.png"
 		],
-		"article": "RF-60LS",
-		"manufacture": "TRANTOP",
-		"tech_desc": "CVT NISSAN (NS-2) JAPAN OEM F011E,CVT-F1CJA, CVT-JF011",
-		"parametrs": [
-			{
-				"title": "Значение1",
-			},
-			{
-				"title": "Значение2"
-			}
-		],
-		"description": "1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet.",
-		"price": {
-			"price_old": 3910,
-			"price_new": 3700,
-			"discount": 32
+	    "article": "RF-60LS",
+	    "manufacture": "TRANTOP",
+	    "tech_desc": "CVT NISSAN (NS-2) JAPAN OEM F011E,CVT-F1CJA, CVT-JF011",
+	    "parametrs": [
+		{
+			"title": "Значение1",
 		},
-		"offers": 
-		[
-			{
-				"offer_id": 1,
-				"city_id": 1,
-				"warehouse_id": 1,
-				"title": "Заголовок офера #1",
-				"qnt": 12,
-				"available": true,
-				"date": "31.10.2018 13:02",
-				"price": 3920,
-				"pickup": {
-					"title":"Москва",
-					"time": "11:00",
-					"cost": "Бесплатно"
-				}
-			},
-			{
-				"offer_id": 2,
-				"city_id": 71,
-				"warehouse_id": 2,
-				"title": "Заголовок офера #2",
-				"qnt": 23,
-				"available": false,
-				"date": "31.11.2017 11:02",
-				"price": 3910,
-				"pickup": [
-					{
-						"title":"Москва",
-						"time": "11:00",
-						"cost": "Бесплатно"
-					},
-					{
-						"title":"Самара",
-						"time": "12:00",
-						"cost": 500
-					}
-				]
-			}
-		]
-    }
+		{
+			"title": "Значение2"
+		}
+	    ],
+	    "description": "1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet.",
+	    "price": {
+		"price_old": 3910,
+		"price_new": 3700,
+		"discount": 32
+	    },
+	}
   ],
   "profile": {
     "name": "typicode"
