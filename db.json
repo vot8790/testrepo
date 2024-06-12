@@ -1,14 +1,7 @@
 {
   "products": [
       	{
-        		"product_id": 100,
-        		"label_new": false,
-        		"label_stock": true,
-        		"label_hit": true,
-        		"label_available": true,
-        		"label_available_qnt": 37,
-        		"title": "Заголовок",
-        		"is_sub_order": false,
+        		"product_id": 100
         }
   ],
   "profile": {
