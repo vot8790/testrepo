@@ -110,17 +110,17 @@
 		"tech_desc": "CVT NISSAN (NS-2) JAPAN OEM F011E,CVT-F1CJA, CVT-JF011",
 		"parametrs": [
 			{
-				"title": "Значение122",
+				"title": "Значение122"
 			},
 			{
-				"title": "Значение222",
+				"title": "Значение222"
 			}
 		],
 		"description": "1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet.",
 		"price": {
 			"price_old": 3710,
 			"price_new": 3200,
-			"discount": 20,
+			"discount": 20
 		},
 		"offers": [
 			{
