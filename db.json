@@ -18,29 +18,7 @@
 					"title": "Заголовок2",
 					"disciption": "Описание2"
 				}
-			],
-	    "images": [
-			"/images/products/product-1-s.png",
-			"/images/products/product-1-s.png",
-			"/images/products/product-1-s.png"
-		],
-	    "article": "RF-60LS",
-	    "manufacture": "TRANTOP",
-	    "tech_desc": "CVT NISSAN (NS-2) JAPAN OEM F011E,CVT-F1CJA, CVT-JF011",
-	    "parametrs": [
-		{
-			"title": "Значение1",
-		},
-		{
-			"title": "Значение2"
-		}
-	    ],
-	    "description": "1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet.",
-	    "price": {
-		"price_old": 3910,
-		"price_new": 3700,
-		"discount": 32
-	    },
+			]
 	}
   ],
   "profile": {
